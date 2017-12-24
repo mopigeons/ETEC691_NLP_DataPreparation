@@ -4,4 +4,6 @@
 	DB_USER=username (where username is the full username to log in to the database)
 	DB_PASSWORD=password (where password is the full password to log in to the database)
 	
+	FILE_OUTPUT_PATH= the location on your computer where the .json files representing each forum post should be saved (these will then be used in the accompanying Python project for classifier training)
+
 	[You can use the project.properties.sample file by removing the .sample extension and filling in the required information within it]
